@@ -5,3 +5,4 @@ Main Objective The objective of this project is to predict the fare of a flight 
 
 Heroku Link:
 https://infinite-castle-49478.herokuapp.com/
+https://salty-castle-71515.herokuapp.com/ 
